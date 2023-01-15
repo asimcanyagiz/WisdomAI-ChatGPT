@@ -1,5 +1,4 @@
 # WisdomAI-ChatGPT
-![My project-1](https://user-images.githubusercontent.com/89473605/200177188-93deadca-6003-452a-a2da-3f741639ae56.png)
 
 
 
@@ -16,8 +15,6 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#screenshots">Screenshots</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#download">Download</a> •
   <a href="#technologies-used">Technologies Used</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
@@ -26,17 +23,11 @@
 ## Key Features
 
 * 8 Screen Design
-* Basket Mechanics
-* Search Mechanics
-* UI Test
+* UI Tests
 * MVVM Design Pattern
 * Controllers and ViewModels connected with Delegate and Closure's
 * Xib used for UI Design
 * Compatible with iOS 12.0+
-* IQKeyboardManager
-* Fakestore API used with Moya
-* Firebase Auth, Remote Config and Firestore
-* Lottie Animations
 * Fully SPM build
 * Live Video
   - ![WisdomAI-ChatGPT](https://user-images.githubusercontent.com/89473605/200179371-66ed6240-2afa-47a6-a204-82e7896a4988.gif)
