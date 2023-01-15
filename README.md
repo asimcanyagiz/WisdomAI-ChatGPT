@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/IQKeyboardManager-298D46?style=for-the-badge&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/moya-cf2f74?style=for-the-badge&logoColor=red"/></td>
+    <td><img src="https://img.shields.io/badge/-Voice%20Overlay%20iOS-blue"/></td>
     <td><img src="https://img.shields.io/badge/KingFisher-5091CD?style=for-the-badge&&logoColor=white"/></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ ChatGPT Open AI
 - [Calculator](https://github.com/asimcanyagiz/iOS-Bootcamp-Week1) - A iOS Calculator
 - [dice-mania](https://github.com/asimcanyagiz/dice-mania) - Dice Mania
 - [Metunes](https://github.com/asimcanyagiz/Metunes) - Metunes
-- [Asian-Kitchen](https://github.com/asimcanyagiz/asian-kitchen) - Asian Kitchen Order Page
+- [BazaarWay](https://github.com/asimcanyagiz/BazaarWay) - Online shopping app
 - [Flickgram](https://github.com/asimcanyagiz/Flickgram) - Flickgram
 
 ## License
