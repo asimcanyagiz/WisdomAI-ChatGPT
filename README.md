@@ -1,3 +1,26 @@
+# Wisdom AI
+
+Wisdom AI is a powerful and versatile application developed using Swift, which integrates the advanced ChatGPT language model, allowing users to interact with the AI in both text and voice formats. The app supports multiple languages, allowing users from all around the world to communicate and benefit from its cutting-edge features. The app is built using the MVVM design pattern and programmatic UI for efficient development and maintainability.
+
+## Features
+
+- **Swift**: Wisdom AI is developed using Swift, a powerful and modern programming language for iOS applications that provides safety, performance, and developer-friendly features.
+
+- **MVVM Design Pattern**: Wisdom AI utilizes the Model-View-ViewModel (MVVM) design pattern, which provides a clean and organized code structure, enabling easier maintenance and scalability of the app.
+
+- **Programmatic UI**: The user interface of Wisdom AI is built programmatically, allowing for more flexibility and control over the UI design and implementation.
+
+- **AdMob integration**: Wisdom AI incorporates AdMob, which provides an efficient way to monetize your app through in-app advertising.
+
+- **RevenueCat Paywall**: The app uses RevenueCat to manage in-app purchases and subscriptions, creating a seamless and user-friendly experience for premium content access.
+
+- **Voice and Text Interaction**: Users can engage with the ChatGPT AI model by typing their queries or using voice commands, making the app accessible and convenient for various use cases.
+
+- **Multilingual Support**: Wisdom AI is capable of understanding and responding to questions in multiple languages, making it a valuable tool for users around the globe.
+
+With Wisdom AI, users can enjoy an interactive and intelligent experience while exploring a wide range of topics and gaining insights from the powerful ChatGPT AI model.
+
+
 <h1>Live Video...</h1>
 https://user-images.githubusercontent.com/89473605/212545442-374979b1-b6dc-480c-9f31-e1d18b9a8f75.mov
 
